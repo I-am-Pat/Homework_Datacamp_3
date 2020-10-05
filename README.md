@@ -1,1 +1,3 @@
-# Homework_Datacamp_3
+DataCamp For Data Scientist 3
+ชื่อ - สกุล : สุพัฒน์ เทียนรุ่งโรจน์
+โจทย์ : ทำไว้เป็นหัวข้อในไฟล์แล้วครับ
